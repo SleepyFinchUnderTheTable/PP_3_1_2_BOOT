@@ -1,5 +1,6 @@
 package ru.kata.preproject.PP_3_1_2_BOOT.model;
 
+
 import javax.persistence.*;
 
 @Entity
